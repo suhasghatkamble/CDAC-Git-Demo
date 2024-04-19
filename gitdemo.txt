@@ -1,2 +1,10 @@
 Whatever changes tracks from now
-hiii vishwa
+
+
+publc class myFirst{
+	public static void main(String args[])
+	{
+		System.out.println("Hii git hub secocond comment ");
+	}
+
+}
